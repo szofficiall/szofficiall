@@ -14,7 +14,7 @@ I enjoy solving real-world engineering problems, designing clean backend systems
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 * 💻 **Software Engineer**
 * 🐍 **Python Developer**
@@ -35,7 +35,7 @@ I enjoy solving real-world engineering problems, designing clean backend systems
 
 ---
 
-# 🎯 Professional Focus
+# Professional Focus
 
 My primary career direction is **Software Engineering with a strong focus on Python/Django backend development**.
 
@@ -63,7 +63,7 @@ My primary career direction is **Software Engineering with a strong focus on Pyt
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 ## 💻 Programming Languages
 
@@ -91,7 +91,7 @@ My primary career direction is **Software Engineering with a strong focus on Pyt
 
 ---
 
-# 🐍 Python Development
+#  Python Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -119,7 +119,7 @@ I use Python primarily for backend development, API development, database-driven
 
 ---
 
-# 🌐 Django Development
+#  Django Development
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
@@ -158,7 +158,7 @@ I build database-driven web applications using Django's MVT architecture and eco
 
 ---
 
-# 🗄️ Django ORM
+#  Django ORM
 
 I work extensively with Django ORM for database interaction and application development.
 
@@ -201,7 +201,7 @@ Student.objects.all().order_by("-id")
 
 ---
 
-# 🔌 Django REST Framework
+#  Django REST Framework
 
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
@@ -228,7 +228,7 @@ I use **Django REST Framework** for building RESTful APIs and backend services.
 
 ---
 
-# ⚡ FastAPI
+#  FastAPI
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
@@ -249,7 +249,7 @@ I also work with **FastAPI** for modern, lightweight, and high-performance API d
 
 ---
 
-# 🗃️ Databases
+#  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
@@ -272,7 +272,7 @@ I also work with **FastAPI** for modern, lightweight, and high-performance API d
 
 ---
 
-# 🔐 Authentication & Security
+#  Authentication & Security
 
 I understand the importance of building secure backend applications.
 
@@ -294,7 +294,7 @@ I understand the importance of building secure backend applications.
 
 ---
 
-# 🎨 Frontend Development
+#  Frontend Development
 
 Although my **primary specialization is backend development**, I also have practical frontend knowledge that allows me to work effectively with frontend applications and API integrations.
 
@@ -323,7 +323,7 @@ Although my **primary specialization is backend development**, I also have pract
 
 ---
 
-# 🔗 REST API Development
+#  REST API Development
 
 I enjoy building APIs that connect backend systems with frontend applications, mobile applications, and external services.
 
@@ -349,7 +349,7 @@ I enjoy building APIs that connect backend systems with frontend applications, m
 
 ---
 
-# 🧪 API Testing
+#  API Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
@@ -369,7 +369,7 @@ I use Postman for developing, testing, and debugging REST APIs.
 
 ---
 
-# 🔧 PHP & Laravel
+#  PHP & Laravel
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
@@ -392,7 +392,7 @@ I also have experience with **PHP and Laravel** for web application development.
 
 ---
 
-# 📊 Data & Analytics
+#  Data & Analytics
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -408,7 +408,7 @@ I also have experience with **PHP and Laravel** for web application development.
 
 ---
 
-# 🔀 Git & Version Control
+#  Git & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -430,7 +430,7 @@ I also have experience with **PHP and Laravel** for web application development.
 
 ---
 
-# ☁️ Deployment & Cloud
+#  Deployment & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
@@ -450,7 +450,7 @@ I also have experience with **PHP and Laravel** for web application development.
 
 ---
 
-# 🧰 Development Tools
+#  Development Tools
 
 ### Tools I Use
 
@@ -467,7 +467,7 @@ I also have experience with **PHP and Laravel** for web application development.
 
 ---
 
-# 🎨 Design Tools
+#  Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
@@ -483,7 +483,7 @@ I also have experience with **PHP and Laravel** for web application development.
 
 ---
 
-# 🏗️ Development Workflow
+#  Development Workflow
 
 My general development workflow looks like this:
 
@@ -515,9 +515,9 @@ Deploy
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 📝 Django Todo Task Manager
+##  Django Todo Task Manager
 
 A Django-based task management application built to practice real-world backend development and CRUD architecture.
 
@@ -540,7 +540,7 @@ A Django-based task management application built to practice real-world backend 
 
 ---
 
-## 🎓 Student Management System
+##  Student Management System
 
 A complete Django-based academic management application for managing students and academic records.
 
@@ -565,7 +565,7 @@ A complete Django-based academic management application for managing students an
 
 ---
 
-## 🍽️ Recipe Management Application
+##  Recipe Management Application
 
 A Django-based recipe management application focused on CRUD operations, authentication, image uploads, and database integration.
 
@@ -593,7 +593,7 @@ A Django-based recipe management application focused on CRUD operations, authent
 
 I believe good software should not only work — it should also be easy to understand, maintain, secure, and improve.
 
-### 🧹 Clean Code
+###  Clean Code
 
 * Readable code
 * Meaningful naming
@@ -601,7 +601,7 @@ I believe good software should not only work — it should also be easy to under
 * Organized project structure
 * Separation of concerns
 
-### 🔐 Security
+###  Security
 
 * Input validation
 * Authentication
@@ -610,7 +610,7 @@ I believe good software should not only work — it should also be easy to under
 * Secure configuration
 * Environment variables
 
-### ⚡ Performance
+###  Performance
 
 * Efficient database queries
 * Proper ORM usage
@@ -618,7 +618,7 @@ I believe good software should not only work — it should also be easy to under
 * Optimized API design
 * Reduced unnecessary processing
 
-### 📈 Scalability
+###  Scalability
 
 * Modular architecture
 * Reusable components
@@ -628,7 +628,7 @@ I believe good software should not only work — it should also be easy to under
 
 ---
 
-# 🧩 Problem-Solving Approach
+#  Problem-Solving Approach
 
 ```text
 Understand
@@ -652,7 +652,7 @@ I enjoy debugging and problem solving because understanding **why something fail
 
 ---
 
-# 📚 Currently Learning & Improving
+#  Currently Learning & Improving
 
 I continuously work on improving my software engineering and backend development skills.
 
@@ -676,7 +676,7 @@ I continuously work on improving my software engineering and backend development
 
 ---
 
-# 🎯 Career Goals
+#  Career Goals
 
 My goal is to grow as a professional **Software Engineer and Backend Developer**, working on real-world applications and scalable systems.
 
@@ -707,9 +707,9 @@ API / Software Architecture
 
 ---
 
-# 💼 Open to Opportunities
+#  Open to Opportunities
 
-🚀 I am currently open to opportunities in:
+ I am currently open to opportunities in:
 
 * Software Engineering
 * Python Development
@@ -728,7 +728,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 📈 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -746,7 +746,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 📊 GitHub Contribution Activity
+#  GitHub Contribution Activity
 
 <div align="center">
 
@@ -756,7 +756,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="left">
 
@@ -772,7 +772,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 🤝 Let's Build Something Great
+#  Let's Build Something Great
 
 I’m always interested in:
 
@@ -787,7 +787,7 @@ Feel free to explore my repositories and connect with me.
 
 ---
 
-# 💡 What I Bring as a Developer
+#  What I Bring as a Developer
 
 ```text
                     SOFTWARE ENGINEER
@@ -820,7 +820,7 @@ My goal is to bring a **backend-first engineering mindset** while understanding 
 
 ---
 
-# 🏆 Development Philosophy
+#  Development Philosophy
 
 > **Build software that works. Then make it clean, secure, maintainable, and scalable.**
 
@@ -836,7 +836,7 @@ I believe professional software should be:
 
 ---
 
-# 🌱 Continuous Growth
+#  Continuous Growth
 
 My development philosophy is simple:
 
@@ -862,9 +862,9 @@ Every project is an opportunity to learn something new, solve a problem, and bec
 
 <div align="center">
 
-# 👨‍💻 Sultan Zaib
+#  Sultan Zaib
 
-### 💻 Software Engineer | 🐍 Python Developer | 🌐 Django Developer
+###  Software Engineer |  Python Developer |  Django Developer
 
 **Python • Django • DRF • FastAPI • REST APIs**
 
@@ -874,7 +874,7 @@ Every project is an opportunity to learn something new, solve a problem, and bec
 
 <br>
 
-### 🚀 Build • Learn • Debug • Improve
+###  Build • Learn • Debug • Improve
 
 <br>
 
