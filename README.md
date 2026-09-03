@@ -1,175 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sultan%20Zaib&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+# SULTAN ZAIB
+
+### Python Engineer → Django Engineer → Backend Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=3776AB&center=true&vCenter=true&width=750&lines=Python+Backend+Engineering;Django+Web+Application+Development;Django+REST+Framework+APIs;FastAPI+Development;Database+Driven+Applications;Production+Ready+Backend+Systems" alt="Typing Animation" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=3776AB&center=true&vCenter=true&width=700&lines=Python+Engineer+%F0%9F%90%8D;Django+Engineer+%F0%9F%8C%90;Backend+Engineer+%E2%9A%99;REST+API+Developer+%F0%9F%94%8C;Software+Engineer+%F0%9F%92%BB" />
-
-<br><br>
-
-<p>
-  <strong>Building reliable, secure, scalable and maintainable backend systems with Python & Django.</strong>
-</p>
+**Software Engineer focused on Python, Django, REST APIs, databases and reliable backend systems.**
 
 <br>
 
-<a href="https://github.com/szofficiall">
-<img src="https://img.shields.io/badge/GitHub-szofficiall-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sultan-zaib-ba26402b1">
-<img src="https://img.shields.io/badge/LinkedIn-Sultan%20Zaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=szofficiall&label=Profile%20Views&color=3776AB&style=for-the-badge" />
+`PYTHON`   `DJANGO`   `DRF`   `FASTAPI`   `REST APIs`   `SQL`
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Sultan Zaib
+# ABOUT ME
 
-I’m a **Software Engineer specializing in Python and Django backend development**, focused on building reliable, secure, scalable, and maintainable web applications and REST APIs.
+I am **Sultan Zaib**, a Software Engineer specializing in **Python and Django backend development**.
 
-My primary focus is:
+My primary engineering direction is backend development, with practical experience building database-driven applications, authentication systems, CRUD applications, REST APIs, admin systems, middleware, signals, search, filtering and API integrations.
+
+I enjoy understanding how systems work internally, solving backend problems, debugging issues and turning requirements into maintainable software.
 
 ```text
-🐍 Python Engineering
-        ↓
-🌐 Django Engineering
-        ↓
-⚡ Backend Engineering
-        ↓
-🔌 REST API Development
-        ↓
-🗄️ Database Engineering
-        ↓
-🚀 Production-Ready Applications
+                    SOFTWARE ENGINEERING
+                            │
+                            ▼
+                     PYTHON ENGINEERING
+                            │
+                            ▼
+                     DJANGO ENGINEERING
+                            │
+                            ▼
+                    BACKEND ENGINEERING
+                            │
+                            ▼
+                      REST API SYSTEMS
+                            │
+                            ▼
+                     DATABASE ENGINEERING
+                            │
+                            ▼
+                   PRODUCTION APPLICATIONS
 ```
 
-I enjoy solving real-world engineering problems, designing backend systems, working with databases, developing APIs, debugging complex issues, and continuously improving software quality.
+### Primary Focus
 
-> **Primary Specialization:** Python & Django Backend Engineering
-> **Supporting Skills:** DRF, FastAPI, REST APIs, SQL, React, JavaScript, Tailwind CSS & Bootstrap
-
----
-
-# 🐍 Python Engineer
-
-<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-**Python is my primary programming language.**
-
-I use Python for backend development, web applications, REST APIs, database-driven systems, scripting, automation, and data processing.
-
-### Python Expertise
-
-* 🐍 Advanced Python
-* 🧱 Object-Oriented Programming
-* 🧩 Functions, Modules & Packages
-* 📦 Virtual Environments
-* ⚠️ Exception Handling
-* 📁 File Handling
-* 🔄 Iterators & Generators
-* 🎯 Decorators
-* 📚 Data Structures
-* 🧮 List, Dictionary & Set Operations
-* ⚡ Comprehensions
-* 🔌 API Development
-* 🗄️ Database Integration
-* 🧹 Data Processing
+```text
+Python
+  ↓
+Django
+  ↓
+Django REST Framework
+  ↓
+FastAPI
+  ↓
+REST APIs
+  ↓
+Django ORM
+  ↓
+MySQL / SQLite
+  ↓
+Authentication & Authorization
+  ↓
+Production Backend Development
+```
 
 ---
 
-# 🌐 Django Engineer
+# PYTHON ENGINEERING
 
-<img src="https://img.shields.io/badge/Django-Backend%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+Python is my primary programming language.
 
-**Django is my primary backend framework.**
+I use Python for backend development, web applications, APIs, database-driven systems, scripting, automation and data processing.
 
-I build database-driven web applications using Django's architecture and ecosystem.
+### Core Python
+
+* Object-Oriented Programming
+* Functions and Modules
+* Packages and Virtual Environments
+* Exception Handling
+* File Handling
+* Iterators and Generators
+* Decorators
+* Data Structures
+* List, Dictionary and Set Operations
+* Comprehensions
+* API Development
+* Database Integration
+* Data Processing
+* Debugging
+* Clean Code Practices
+
+### Python Engineering Mindset
+
+```text
+WRITE
+  ↓
+UNDERSTAND
+  ↓
+TEST
+  ↓
+DEBUG
+  ↓
+REFACTOR
+  ↓
+OPTIMIZE
+  ↓
+SHIP
+```
+
+---
+
+# DJANGO ENGINEERING
+
+Django is my primary backend framework.
+
+I work with Django's architecture to build structured, secure and database-driven web applications.
 
 ### Django Expertise
 
-* Django MVT Architecture
-* Models, Views & Templates
+```text
+Django MVT
+├── Models
+├── Views
+├── Templates
+└── URLs
+
+Django Backend
+├── ORM
+├── QuerySets
+├── Forms
+├── Authentication
+├── Authorization
+├── Sessions
+├── Messages
+├── Middleware
+├── Signals
+├── Admin
+├── Pagination
+├── Search
+├── Filtering
+├── Validation
+├── File Uploads
+├── Image Uploads
+├── Static Files
+└── Media Files
+```
+
+### Django Concepts
+
+* MVT Architecture
+* Models
+* Views
+* Templates
 * URL Routing
-* Django Forms
+* Forms
 * Django ORM
 * QuerySets
 * Model Relationships
 * Database Migrations
 * Django Admin
 * CRUD Applications
-* Authentication & Authorization
+* Authentication
+* Authorization
 * Sessions
-* Django Messages
+* Messages Framework
 * Pagination
-* Search & Filtering
-* File Uploads
-* Image Uploads
-* Static & Media Files
-* Custom User Models
+* Search
+* Filtering
 * Middleware
 * Signals
-* Backend Validation
+* Custom User Models
+* Validation
 * Security Fundamentals
 * Production Configuration
 
 ---
 
-# ⚡ Backend Engineering
+# DJANGO REST FRAMEWORK
 
-My main career direction is **Backend Engineering with Python and Django**.
+I use Django REST Framework to build RESTful APIs and backend services.
+
+### DRF Stack
 
 ```text
-                       BACKEND ENGINEERING
-                              │
-              ┌───────────────┼───────────────┐
-              │               │               │
-           Python           Django           APIs
-              │               │               │
-              │               │          DRF / FastAPI
-              │               │               │
-              └───────────────┼───────────────┘
-                              │
-                         Django ORM
-                              │
-                         Databases
-                              │
-                       MySQL / SQLite
-                              │
-                     Authentication
-                              │
-                       Authorization
-                              │
-                       Secure Backend
-                              │
-                    Production Applications
+CLIENT
+  ↓
+HTTP REQUEST
+  ↓
+URL ROUTER
+  ↓
+API VIEW
+  ↓
+AUTHENTICATION
+  ↓
+PERMISSIONS
+  ↓
+VALIDATION
+  ↓
+BUSINESS LOGIC
+  ↓
+DJANGO ORM
+  ↓
+DATABASE
+  ↓
+SERIALIZER
+  ↓
+JSON RESPONSE
+  ↓
+CLIENT
 ```
 
-I focus on writing backend code that is:
-
-* Clean
-* Maintainable
-* Secure
-* Reusable
-* Testable
-* Scalable
-* Performance-conscious
-
----
-
-# 🔌 Django REST Framework
-
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-API%20Development-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-I use **Django REST Framework** for building RESTful APIs and backend services.
-
-### DRF Skills
+### DRF Knowledge
 
 * Serializers
 * ModelSerializers
@@ -190,13 +237,11 @@ I use **Django REST Framework** for building RESTful APIs and backend services.
 
 ---
 
-# 🚀 FastAPI
+# FASTAPI
 
-<img src="https://img.shields.io/badge/FastAPI-Modern%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+I also work with FastAPI for modern API development.
 
-I also work with **FastAPI** for modern and lightweight API development.
-
-### FastAPI Skills
+### FastAPI Knowledge
 
 * REST APIs
 * Pydantic Models
@@ -211,34 +256,43 @@ I also work with **FastAPI** for modern and lightweight API development.
 
 ---
 
-# 🗄️ Database Engineering
+# DATABASE ENGINEERING
 
-<img src="https://img.shields.io/badge/Database-Engineering-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+Backend systems depend heavily on good database design.
 
-### Databases
+My database experience includes:
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+### Technologies
 
-### Database Skills
+```text
+MySQL
+SQLite
+Django ORM
+```
 
-* MySQL
-* SQLite
+### Database Concepts
+
 * Relational Database Design
+* CRUD Operations
 * Database Relationships
 * One-to-One Relationships
 * One-to-Many Relationships
 * Many-to-Many Relationships
-* CRUD Operations
+* Foreign Keys
 * Database Migrations
-* Django ORM
 * QuerySets
+* Filtering
+* Ordering
+* Searching
+* Aggregation
+* Annotation
 * Query Optimization Fundamentals
 
 ---
 
-# 🧩 Django ORM
+# DJANGO ORM
 
-I work extensively with Django ORM for database interaction.
+I use Django ORM for interacting with relational databases without writing raw SQL for every operation.
 
 ```python
 Student.objects.all()
@@ -260,32 +314,31 @@ Student.objects.create(
 Student.objects.all().order_by("-id")
 ```
 
-### ORM Concepts
+### ORM Workflow
 
 ```text
-QuerySets
-   │
-   ├── Filtering
-   ├── Searching
-   ├── Ordering
-   ├── Aggregation
-   ├── Annotation
-   ├── Q Objects
-   ├── F Expressions
-   ├── Relationships
-   ├── ForeignKey
-   ├── OneToOneField
-   ├── ManyToManyField
-   └── Query Optimization
+MODEL
+  ↓
+QUERYSET
+  ↓
+FILTER
+  ↓
+VALIDATE
+  ↓
+PROCESS
+  ↓
+DATABASE
+  ↓
+RESULT
 ```
 
 ---
 
-# 🔐 Authentication & Security
+# AUTHENTICATION & SECURITY
 
-I understand the importance of building secure backend applications.
+I understand the importance of secure backend applications.
 
-### Security Knowledge
+### Security Concepts
 
 * User Authentication
 * Login / Logout
@@ -301,130 +354,129 @@ I understand the importance of building secure backend applications.
 * Access Control
 * API Security Fundamentals
 
----
-
-# 🔌 REST API Development
-
-I enjoy building APIs that connect backend systems with frontend applications, mobile applications, and external services.
-
-### API Knowledge
-
 ```text
-Client
-  ↓
-HTTP Request
-  ↓
-API Endpoint
-  ↓
-Authentication
-  ↓
-Validation
-  ↓
-Business Logic
-  ↓
-Database
-  ↓
-Serializer
-  ↓
-JSON Response
-  ↓
-Client
+USER
+ ↓
+AUTHENTICATION
+ ↓
+IDENTITY
+ ↓
+AUTHORIZATION
+ ↓
+PERMISSIONS
+ ↓
+RESOURCE ACCESS
 ```
 
-### API Skills
+---
 
-* REST Architecture
-* CRUD APIs
-* GET
-* POST
-* PUT
-* PATCH
-* DELETE
-* JSON
-* HTTP Status Codes
-* Request Validation
-* Response Handling
-* Authentication
-* Permissions
-* Pagination
-* Filtering
-* API Documentation
-* Postman Testing
+# REST API DEVELOPMENT
+
+I build APIs that connect backend systems with frontend applications, mobile applications and external services.
+
+### API Lifecycle
+
+```text
+REQUEST
+   ↓
+ROUTING
+   ↓
+AUTHENTICATION
+   ↓
+VALIDATION
+   ↓
+BUSINESS LOGIC
+   ↓
+DATABASE
+   ↓
+SERIALIZATION
+   ↓
+RESPONSE
+```
+
+### HTTP Methods
+
+```text
+GET       → Retrieve
+POST      → Create
+PUT       → Replace
+PATCH     → Update
+DELETE    → Remove
+```
 
 ---
 
-# 🧪 API Testing
+# API TESTING
 
-<img src="https://skillicons.dev/icons?i=postman" />
+I use Postman for API development, testing and debugging.
 
-I use Postman for developing, testing, debugging, and validating REST APIs.
+### Testing Workflow
 
-### Postman Experience
-
-* API Requests
-* CRUD Testing
-* Request Headers
-* JSON Payloads
-* Authentication Testing
-* Status Code Validation
-* API Debugging
-* Endpoint Testing
-* Collections
-
----
-
-# 💻 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,js,c,cpp" />
-
-</div>
-
-### Languages
-
-| Language     | Focus                             |
-| ------------ | --------------------------------- |
-| 🐍 Python    | **Primary / Backend**             |
-| 🌐 PHP       | Backend Development               |
-| ⚡ JavaScript | Web Development / API Integration |
-| 🔵 C         | Programming Fundamentals          |
-| 🔷 C++       | Programming Fundamentals          |
+```text
+CREATE ENDPOINT
+      ↓
+SEND REQUEST
+      ↓
+CHECK STATUS
+      ↓
+CHECK RESPONSE
+      ↓
+TEST VALIDATION
+      ↓
+TEST AUTHENTICATION
+      ↓
+DEBUG
+      ↓
+IMPROVE
+```
 
 ---
 
-# 🎨 Frontend — Supporting Skills
+# PROGRAMMING LANGUAGES
 
-My **primary specialization is backend development**, but I have practical frontend knowledge that helps me understand frontend applications and integrate backend APIs effectively.
+| Language       | Primary Use                       |
+| -------------- | --------------------------------- |
+| **Python**     | Backend Engineering               |
+| **PHP**        | Web Development                   |
+| **JavaScript** | Web Development / API Integration |
+| **C**          | Programming Fundamentals          |
+| **C++**        | Programming Fundamentals          |
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+# FRONTEND ENGINEERING
 
-</div>
+My primary specialization is backend engineering, but I have practical frontend knowledge that allows me to understand complete web application architecture and integrate backend APIs effectively.
+
+### Frontend Stack
+
+```text
+HTML5
+CSS3
+JavaScript
+React
+Tailwind CSS
+Bootstrap 5
+```
 
 ### Frontend Knowledge
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
-* Bootstrap 5
 * Responsive Web Design
-* API Integration
 * Component-Based UI
+* API Integration
 * Backend / Frontend Integration
+* Responsive Layouts
+* Forms
+* Client-Side Interaction
+* Browser Developer Tools
 
-> 🎯 **Frontend is a supporting skill. My core specialization remains Python/Django Backend Engineering.**
+> **Backend is my core specialization. Frontend is a supporting engineering skill.**
 
 ---
 
-# 🐘 PHP & Laravel
+# PHP & LARAVEL
 
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-
-I also have experience with PHP and Laravel for web application development.
+I also have experience with PHP and Laravel.
 
 ### Laravel Knowledge
 
@@ -442,14 +494,17 @@ I also have experience with PHP and Laravel for web application development.
 
 ---
 
-# 📊 Data & Analytics
+# DATA & ANALYTICS
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+### Technologies
 
-### Data Skills
+```text
+NumPy
+Pandas
+```
 
-* NumPy
-* Pandas
+### Knowledge
+
 * Data Manipulation
 * Data Processing
 * Data Cleaning
@@ -457,464 +512,428 @@ I also have experience with PHP and Laravel for web application development.
 
 ---
 
-# 🔀 Git & Version Control
+# GIT & VERSION CONTROL
 
-<div align="center">
+I use Git-based workflows for managing source code and projects.
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+### Workflow
 
-</div>
+```text
+WORK
+ ↓
+CHANGE
+ ↓
+TEST
+ ↓
+COMMIT
+ ↓
+BRANCH
+ ↓
+PUSH
+ ↓
+PULL REQUEST
+ ↓
+REVIEW
+ ↓
+MERGE
+```
 
-### Git Skills
+### Tools
 
-* Git
-* GitHub
-* GitLab
-* Repository Management
-* Branching
-* Merging
-* Commit Management
-* Pull Requests
-* Remote Repositories
-* Collaboration Workflows
-* Basic CI/CD Concepts
+```text
+Git
+GitHub
+GitLab
+```
 
 ---
 
-# ☁️ Deployment & Cloud
+# DEPLOYMENT & CLOUD
 
-<div align="center">
+### Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
-
-</div>
+```text
+AWS
+Vercel
+Netlify
+```
 
 ### Deployment Knowledge
 
-* AWS Fundamentals
-* Vercel
-* Netlify
 * Environment Variables
 * Production Configuration
 * Static Files
 * Media Files
 * Application Hosting
 * Deployment Configuration
+* Basic CI/CD Concepts
 
 ---
 
-# 🛠️ Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,python,npm" />
-
-</div>
-
-### Tools
-
-* Visual Studio Code
-* Git
-* GitHub
-* GitLab
-* Postman
-* Python
-* pip
-* Virtual Environments
-* npm
-* Browser Developer Tools
-
----
-
-# 🚀 Featured Projects
-
-## 1. 📝 Django Signals & Admin Blog Manager
-
-A practical Django project demonstrating **Django Signals and custom Django Admin functionality**.
-
-### Concepts
-
-* `pre_save`
-* `post_save`
-* Django Signals
-* Django Admin
-* Blog Management
-* Model Logic
-* Backend Architecture
-
----
-
-## 2. 🔐 Django Authentication Starter
-
-A production-focused authentication project demonstrating the fundamentals of secure Django user management.
-
-### Features
-
-* User Registration
-* Login
-* Logout
-* Authentication Flow
-* Secure User Management
-* Session Handling
-* Validation
-
----
-
-## 3. 🧩 Django Middleware Made Simple
-
-A practical project created to understand and demonstrate **Django Middleware**.
-
-### Concepts
-
-* Custom Middleware
-* Request / Response Cycle
-* Middleware Processing
-* Authentication Concepts
-* Backend Request Handling
-
----
-
-## 4. 📝 Django Blog Post Manager
-
-A database-driven Django application for managing blog posts.
-
-### Features
-
-* CRUD Operations
-* Create Posts
-* Update Posts
-* Delete Posts
-* Search
-* Filtering
-* Pagination
-* Django ORM
-* Django Messages
-
----
-
-## 5. 🎓 Student Management System
-
-A Django-based application for managing students and academic information.
-
-### Features
-
-* Student Management
-* Department Management
-* Subject Management
-* Marks
-* Results
-* CRUD Operations
-* Django Admin
-* Database Relationships
-* Pagination
-
----
-
-## 6. ✅ Django Todo Task Manager
-
-A Django task management application focused on practical CRUD and backend development.
-
-### Features
-
-* Create Tasks
-* Update Tasks
-* Delete Tasks
-* Complete / Incomplete Tasks
-* Search
-* Django ORM
-* SQLite
-* Django Messages
-
----
-
-## 7. 🍳 Recipe CRUD Application
-
-A Django application demonstrating CRUD operations, authentication, image uploads, and database integration.
-
-### Features
-
-* User Authentication
-* Recipe Creation
-* Recipe Updating
-* Recipe Deletion
-* Recipe Search
-* Image Uploads
-* User-Based Functionality
-* Django ORM
-
----
-
-# 🧠 My Engineering Approach
+# DEVELOPMENT TOOLS
 
 ```text
-       REQUIREMENT
-            │
-            ▼
-     UNDERSTAND PROBLEM
-            │
-            ▼
-       DESIGN SOLUTION
-            │
-            ▼
-      DESIGN DATABASE
-            │
-            ▼
-      BUILD BACKEND
-            │
-            ▼
-       BUILD APIs
-            │
-            ▼
-       INTEGRATION
-            │
-            ▼
-          TEST
-            │
-            ▼
-         DEBUG
-            │
-            ▼
-        OPTIMIZE
-            │
-            ▼
-         DEPLOY
-            │
-            ▼
-       DOCUMENT
+Visual Studio Code
+Git
+GitHub
+GitLab
+Postman
+Python
+pip
+Virtual Environments
+npm
+Browser Developer Tools
 ```
 
 ---
 
-# 🧹 Clean Code Philosophy
+# FEATURED PROJECTS
 
-I believe software should not only **work** — it should also be easy to understand, maintain, test, and improve.
+## 01 — Django Signals & Admin Blog Manager
 
-### I focus on:
+A practical Django project created to understand and demonstrate **Django Signals and Django Admin customization**.
+
+### Concepts
 
 ```text
-Readable Code
-      ↓
-Meaningful Naming
-      ↓
-Reusable Components
-      ↓
-Separation of Concerns
-      ↓
+pre_save
+post_save
+Django Signals
+Django Admin
+Model Logic
+Blog Management
+Backend Architecture
+```
+
+---
+
+## 02 — Django Authentication Starter
+
+A production-focused authentication project demonstrating Django user management and authentication fundamentals.
+
+### Features
+
+```text
+Registration
+Login
+Logout
+Authentication Flow
+Session Handling
 Validation
-      ↓
-Security
-      ↓
-Testing
-      ↓
-Maintainability
+User Management
 ```
 
 ---
 
-# 🧠 Problem Solving
+## 03 — Django Middleware Made Simple
 
-My problem-solving process:
+A practical project created to understand the Django request/response lifecycle and custom middleware.
+
+### Concepts
 
 ```text
-Understand
-    ↓
-Analyze
-    ↓
-Research
-    ↓
-Design
-    ↓
-Implement
-    ↓
-Test
-    ↓
-Debug
-    ↓
-Optimize
-    ↓
-Document
+Custom Middleware
+Request / Response Cycle
+Middleware Processing
+Authentication Concepts
+Backend Request Handling
 ```
 
-> **I don't just want to fix an error — I want to understand why it happened.**
-
 ---
 
-# 📚 Currently Learning & Improving
+## 04 — Django Blog Post Manager
 
-I continuously work on improving my backend and software engineering skills.
+A database-driven application for managing blog posts.
 
-### Current Focus
-
-* 🐍 Advanced Python
-* 🌐 Advanced Django
-* 🔌 Django REST Framework
-* ⚡ FastAPI
-* 🔐 Authentication & Authorization
-* 🗄️ Database Optimization
-* 🏗️ Backend Architecture
-* 🧩 Software Design Patterns
-* 🧠 System Design Fundamentals
-* 🐳 Docker
-* 🔄 CI/CD
-* 🧪 Automated Testing
-* ☁️ Cloud Deployment
-* 🚀 Production Backend Development
-
----
-
-# 🎯 Career Direction
-
-My professional direction is clearly focused on backend engineering.
+### Features
 
 ```text
-🐍 Python Engineer
-        ↓
-🌐 Django Engineer
-        ↓
-⚡ Backend Engineer
-        ↓
-🔌 API Engineer
-        ↓
-🏗️ Software Engineer
-        ↓
-🧠 Backend Architecture
-        ↓
-🚀 Scalable Systems
+Create
+Read
+Update
+Delete
+Search
+Filtering
+Pagination
+Django ORM
+Django Messages
 ```
 
-My strongest career focus is:
+---
+
+## 05 — Student Management System
+
+A Django application designed for managing students and academic information.
+
+### Features
+
+```text
+Student Management
+Department Management
+Subject Management
+Marks
+Results
+CRUD
+Admin Management
+Database Relationships
+Pagination
+```
+
+---
+
+## 06 — Django Todo Task Manager
+
+A practical Django task management application.
+
+### Features
+
+```text
+Create Tasks
+Update Tasks
+Delete Tasks
+Complete / Incomplete
+Search
+Django ORM
+SQLite
+Django Messages
+```
+
+---
+
+## 07 — Recipe CRUD Application
+
+A Django application demonstrating CRUD operations, authentication, image uploads and database integration.
+
+### Features
+
+```text
+Authentication
+Recipe Creation
+Recipe Updating
+Recipe Deletion
+Recipe Search
+Image Uploads
+User-Based Functionality
+Django ORM
+```
+
+---
+
+# ENGINEERING WORKFLOW
+
+I approach projects systematically.
+
+```text
+                    REQUIREMENT
+                         ↓
+                  UNDERSTAND PROBLEM
+                         ↓
+                    DESIGN SOLUTION
+                         ↓
+                    DESIGN DATABASE
+                         ↓
+                    BUILD BACKEND
+                         ↓
+                     BUILD APIs
+                         ↓
+                    INTEGRATION
+                         ↓
+                       TEST
+                         ↓
+                      DEBUG
+                         ↓
+                     OPTIMIZE
+                         ↓
+                      DEPLOY
+                         ↓
+                    DOCUMENTATION
+```
+
+---
+
+# CLEAN CODE PHILOSOPHY
+
+Software should not only work.
+
+It should be understandable, maintainable and easy to improve.
+
+```text
+READABLE CODE
+      ↓
+MEANINGFUL NAMING
+      ↓
+REUSABLE LOGIC
+      ↓
+SEPARATION OF CONCERNS
+      ↓
+VALIDATION
+      ↓
+SECURITY
+      ↓
+TESTING
+      ↓
+MAINTAINABILITY
+```
+
+---
+
+# PROBLEM SOLVING
+
+My debugging mindset is simple:
+
+```text
+UNDERSTAND
+    ↓
+ANALYZE
+    ↓
+RESEARCH
+    ↓
+DESIGN
+    ↓
+IMPLEMENT
+    ↓
+TEST
+    ↓
+DEBUG
+    ↓
+OPTIMIZE
+    ↓
+DOCUMENT
+```
+
+> **I don't just want to fix an error. I want to understand why it happened.**
+
+---
+
+# CURRENTLY LEARNING
+
+My current learning direction is focused on becoming a stronger backend and software engineer.
+
+```text
+Advanced Python
+       ↓
+Advanced Django
+       ↓
+Django REST Framework
+       ↓
+FastAPI
+       ↓
+Authentication & Authorization
+       ↓
+Database Optimization
+       ↓
+Backend Architecture
+       ↓
+Design Patterns
+       ↓
+System Design
+       ↓
+Docker
+       ↓
+CI/CD
+       ↓
+Automated Testing
+       ↓
+Cloud Deployment
+       ↓
+Production Engineering
+```
+
+---
+
+# CAREER DIRECTION
+
+My career path is intentionally backend-focused.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=600&color=3776AB&center=true&vCenter=true&width=700&lines=PYTHON+ENGINEER;DJANGO+ENGINEER;BACKEND+ENGINEER;API+ENGINEER;SOFTWARE+ENGINEER;BACKEND+ARCHITECTURE" alt="Career Animation" />
+
+```text
+Python
+   ↓
+Django
+   ↓
+Backend Engineering
+   ↓
+REST APIs
+   ↓
+Software Engineering
+   ↓
+Backend Architecture
+   ↓
+Scalable Systems
+```
+
+### Strongest Career Focus
 
 **Python → Django → Backend Engineering → REST APIs → Software Engineering**
 
 ---
 
-# 💼 Open to Opportunities
-
-I am open to opportunities in:
-
-* Software Engineering
-* Python Development
-* Django Development
-* Backend Development
-* Django REST Framework
-* FastAPI Development
-* REST API Development
-* Database-Driven Applications
-* Junior Backend Developer Roles
-* Python Developer Roles
-* Freelance Backend Development
-* Internship / Entry-Level Opportunities
-
-I am especially interested in **Python/Django backend-focused roles**.
-
----
-
-# 📈 GitHub Statistics
+# CONTRIBUTION QUEST
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=500&color=3776AB&center=true&vCenter=true&width=700&lines=CONTRIBUTION+QUEST+INITIALIZING...;LOADING+COMMIT+HISTORY...;SCANNING+ACTIVITY...;MISSION%3A+BUILD+%E2%86%92+COMMIT+%E2%86%92+SHIP;QUEST+IN+PROGRESS..." alt="Contribution Quest Animation" />
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com/?user=szofficiall&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szofficiall&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/szofficiall">
-<img src="https://img.shields.io/badge/GitHub-szofficiall-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sultan-zaib-ba26402b1">
-<img src="https://img.shields.io/badge/LinkedIn-Sultan%20Zaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💡 What I Bring
+### MISSION MAP
 
 ```text
-                    SOFTWARE ENGINEERING
-                            │
-                            ▼
-                    PYTHON ENGINEERING
-                            │
-                            ▼
-                    DJANGO ENGINEERING
-                            │
-              ┌─────────────┴─────────────┐
-              ▼                           ▼
-         REST APIs                    Databases
-              │                           │
-              ▼                           ▼
-        DRF / FastAPI              MySQL / SQLite
-              │                           │
-              └─────────────┬─────────────┘
-                            ▼
-                   BACKEND ENGINEERING
-                            │
-                            ▼
-                  FRONTEND INTEGRATION
-                            │
-                            ▼
-                   PRODUCTION SYSTEMS
+START
+  │
+  ├── BUILD
+  │
+  ├── COMMIT
+  │
+  ├── PUSH
+  │
+  ├── REVIEW
+  │
+  ├── IMPROVE
+  │
+  └── REPEAT
 ```
 
-I bring a **backend-first engineering mindset** while understanding the complete flow of modern web applications — from **database and business logic to APIs and frontend integration**.
+<br>
+
+<img src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
+
+</div>
 
 ---
 
-# ❤️ Development Philosophy
-
-> **Build it. Understand it. Debug it. Improve it.**
-
-I believe great software is:
-
-* Clean
-* Secure
-* Maintainable
-* Testable
-* Performant
-* Scalable
-* Reliable
-
----
-
-# 🔥 My Developer Loop
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+# GITHUB PROFILE
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szofficiall&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=false&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+
+</div>
+
+---
+
+# DEVELOPER LOOP
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1800&pause=500&color=3776AB&center=true&vCenter=true&width=700&lines=LEARN;BUILD;BREAK;DEBUG;UNDERSTAND;IMPROVE;REPEAT" alt="Developer Loop Animation" />
+
+</div>
 
 ```text
 LEARN
@@ -932,36 +951,121 @@ IMPROVE
 REPEAT
 ```
 
+Every project is an opportunity to understand something deeper, solve a real problem and become a better engineer.
+
+---
+
+# OPEN TO OPPORTUNITIES
+
+I am interested in opportunities related to:
+
+```text
+Software Engineering
+Python Development
+Django Development
+Backend Development
+Django REST Framework
+FastAPI
+REST API Development
+Database-Driven Applications
+Junior Backend Development
+Python Developer Roles
+Freelance Backend Development
+Internship / Entry-Level Opportunities
+```
+
+My strongest preference is for **Python/Django backend-focused roles**.
+
+---
+
+# WHAT I BRING
+
+```text
+                         SOFTWARE ENGINEERING
+                                  │
+                                  ▼
+                         PYTHON ENGINEERING
+                                  │
+                                  ▼
+                         DJANGO ENGINEERING
+                                  │
+                     ┌────────────┴────────────┐
+                     ▼                         ▼
+                 REST APIs                 Databases
+                     │                         │
+                     ▼                         ▼
+               DRF / FastAPI              MySQL / SQLite
+                     │                         │
+                     └────────────┬────────────┘
+                                  ▼
+                         BACKEND ENGINEERING
+                                  │
+                                  ▼
+                         FRONTEND INTEGRATION
+                                  │
+                                  ▼
+                         PRODUCTION SYSTEMS
+```
+
+I bring a **backend-first engineering mindset** with practical knowledge of the complete web application flow — from database design and business logic to REST APIs and frontend integration.
+
+---
+
+# DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=700&color=3776AB&center=true&vCenter=true&width=750&lines=BUILD+IT.;UNDERSTAND+IT.;DEBUG+IT.;IMPROVE+IT.;SHIP+IT." alt="Development Philosophy Animation" />
+
 </div>
 
-Every project is an opportunity to learn something new, solve a real problem, and become a better engineer.
+> **Build it. Understand it. Debug it. Improve it.**
+
+I believe great software should be:
+
+```text
+Clean
+Secure
+Maintainable
+Testable
+Performant
+Scalable
+Reliable
+```
+
+---
+
+# LET'S CONNECT
+
+<div align="center">
+
+### SULTAN ZAIB
+
+**Python Engineer**
+
+**Django Engineer**
+
+**Backend Engineer**
+
+<br>
+
+`Python` · `Django` · `DRF` · `FastAPI` · `REST APIs` · `MySQL` · `SQLite`
+
+<br><br>
+
+<a href="https://github.com/szofficiall">GitHub</a>
+    <a href="https://www.linkedin.com/">LinkedIn</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+DEBUGGING.;KEEP+IMPROVING.;KEEP+SHIPPING." alt="Footer Animation" />
 
-### 🐍 Python Engineer
+<br><br>
 
-### 🌐 Django Engineer
-
-### ⚡ Backend Engineer
-
-<br>
-
-**Python • Django • DRF • FastAPI • REST APIs**
-
-**MySQL • SQLite • Django ORM • Git**
-
-**React • JavaScript • Tailwind CSS • Bootstrap**
-
-<br>
-
-### 🚀 Build • Learn • Debug • Improve
-
-<br>
-
-**Built with ❤️ by Sultan Zaib**
+**Built with discipline, curiosity and code by Sultan Zaib.**
 
 </div>
