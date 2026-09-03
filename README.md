@@ -880,23 +880,9 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&custom_title=Sultan%20Zaib%20%2F%2F%20GitHub%20Stats"
-  width="49%"
-  alt="Sultan Zaib GitHub Statistics"
-/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=szofficiall&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA"
-  width="49%"
-  alt="Sultan Zaib GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=szofficiall&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"
-  width="42%"
-  alt="Sultan Zaib Top Languages"
+src="https://streak-stats.demolab.com/?user=szofficiall&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"
+alt="Sultan Zaib GitHub Streak"
+width="850"
 />
 
 </div>
