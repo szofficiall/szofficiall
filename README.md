@@ -8,19 +8,19 @@
 
 <br><br>
 
-`PYTHON`   `DJANGO`   `DRF`   `FASTAPI`   `REST APIs`   `SQL`
+`PYTHON` · `DJANGO` · `DRF` · `FASTAPI` · `REST APIs` · `SQL`
 
 </div>
 
 ---
 
-# SULTAN ZAIB
+# 👨‍💻 SULTAN ZAIB
 
 ### Python Engineer → Django Engineer → Backend Engineer
 
 I am a **Software Engineer specializing in Python and Django backend development**, focused on building reliable, secure, maintainable and database-driven applications.
 
-My strongest engineering direction is:
+My engineering direction:
 
 ```text
 PYTHON
@@ -40,7 +40,7 @@ I enjoy understanding systems deeply, solving backend problems, designing databa
 
 ---
 
-# ENGINEERING IDENTITY
+# ⚡ ENGINEERING IDENTITY
 
 <div align="center">
 
@@ -49,32 +49,32 @@ I enjoy understanding systems deeply, solving backend problems, designing databa
 </div>
 
 ```text
-                     SOFTWARE ENGINEERING
-                              │
-                              ▼
-                       PYTHON ENGINEERING
-                              │
-                              ▼
-                       DJANGO ENGINEERING
-                              │
-                              ▼
-                      BACKEND ENGINEERING
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-                REST APIs           Databases
-                    │                   │
-                    ▼                   ▼
-               DRF / FastAPI       MySQL / SQLite
-                    │                   │
-                    └─────────┬─────────┘
-                              ▼
+                    SOFTWARE ENGINEERING
+                             │
+                             ▼
+                      PYTHON ENGINEERING
+                             │
+                             ▼
+                      DJANGO ENGINEERING
+                             │
+                             ▼
+                     BACKEND ENGINEERING
+                             │
+                  ┌──────────┴──────────┐
+                  ▼                     ▼
+              REST APIs             Databases
+                  │                     │
+                  ▼                     ▼
+             DRF / FastAPI         MySQL / SQLite
+                  │                     │
+                  └──────────┬──────────┘
+                             ▼
                     PRODUCTION SYSTEMS
 ```
 
 ---
 
-# PYTHON ENGINEERING
+# 🐍 PYTHON ENGINEERING
 
 Python is my primary programming language.
 
@@ -120,7 +120,7 @@ SHIP
 
 ---
 
-# DJANGO ENGINEERING
+# 🎯 DJANGO ENGINEERING
 
 Django is my primary backend framework.
 
@@ -158,7 +158,7 @@ Django
 
 ---
 
-# DJANGO REST FRAMEWORK
+# 🚀 DJANGO REST FRAMEWORK
 
 I use Django REST Framework to build RESTful APIs and backend services.
 
@@ -212,7 +212,7 @@ API Testing
 
 ---
 
-# FASTAPI
+# ⚡ FASTAPI
 
 I also work with FastAPI for modern API development.
 
@@ -232,7 +232,7 @@ REST APIs
 
 ---
 
-# DATABASE ENGINEERING
+# 🗄️ DATABASE ENGINEERING
 
 Backend engineering requires a strong understanding of data.
 
@@ -250,9 +250,9 @@ Django ORM
 Relational Database Design
 CRUD Operations
 Foreign Keys
-One-to-One
-One-to-Many
-Many-to-Many
+One-to-One Relationships
+One-to-Many Relationships
+Many-to-Many Relationships
 Database Migrations
 QuerySets
 Filtering
@@ -265,7 +265,7 @@ Query Optimization Fundamentals
 
 ---
 
-# DJANGO ORM
+# 🔎 DJANGO ORM
 
 I use Django ORM to work with relational databases through Python models and QuerySets.
 
@@ -309,7 +309,7 @@ RESULT
 
 ---
 
-# AUTHENTICATION & SECURITY
+# 🔐 AUTHENTICATION & SECURITY
 
 I understand the fundamentals required to build secure backend applications.
 
@@ -345,7 +345,7 @@ API Security Fundamentals
 
 ---
 
-# REST API ENGINEERING
+# 🌐 REST API ENGINEERING
 
 I build APIs that connect backend systems with web applications, frontend clients, mobile applications and external services.
 
@@ -381,7 +381,7 @@ DELETE    → Remove
 
 ---
 
-# API TESTING
+# 🧪 API TESTING
 
 I use Postman for API development, testing, debugging and validation.
 
@@ -405,7 +405,7 @@ IMPROVE
 
 ---
 
-# TECHNOLOGY STACK
+# 🛠️ TECHNOLOGY STACK
 
 | Area             | Technologies                   |
 | ---------------- | ------------------------------ |
@@ -414,7 +414,7 @@ IMPROVE
 | API Development  | Django REST Framework, FastAPI |
 | Databases        | MySQL, SQLite                  |
 | ORM              | Django ORM                     |
-| Frontend         | HTML, CSS, JavaScript, React   |
+| Frontend         | HTML5, CSS3, JavaScript, React |
 | UI               | Bootstrap 5, Tailwind CSS      |
 | Other Backend    | PHP, Laravel                   |
 | Data             | NumPy, Pandas                  |
@@ -425,7 +425,7 @@ IMPROVE
 
 ---
 
-# FRONTEND
+# 🎨 FRONTEND
 
 Backend is my primary specialization, but I have practical frontend knowledge for complete application development and API integration.
 
@@ -445,7 +445,7 @@ Frontend / Backend Integration
 
 ---
 
-# PHP & LARAVEL
+# 🐘 PHP & LARAVEL
 
 I also have experience with PHP and Laravel.
 
@@ -465,7 +465,7 @@ Database Integration
 
 ---
 
-# DATA & ANALYTICS
+# 📊 DATA & ANALYTICS
 
 ```text
 NumPy
@@ -478,7 +478,7 @@ Basic Data Analysis
 
 ---
 
-# GIT & DEVELOPMENT WORKFLOW
+# 🔧 GIT & DEVELOPMENT WORKFLOW
 
 ```text
 WORK
@@ -502,7 +502,7 @@ MERGE
 
 ---
 
-# DEPLOYMENT
+# ☁️ DEPLOYMENT
 
 ```text
 AWS
@@ -518,7 +518,7 @@ Basic CI/CD
 
 ---
 
-# FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
 ## 01 — Django Signals & Admin Blog Manager
 
@@ -636,7 +636,7 @@ Django ORM
 
 ---
 
-# ENGINEERING WORKFLOW
+# 🧠 ENGINEERING WORKFLOW
 
 ```text
                     REQUIREMENT
@@ -666,7 +666,7 @@ Django ORM
 
 ---
 
-# PROBLEM SOLVING
+# 🧩 PROBLEM SOLVING
 
 ```text
 UNDERSTAND
@@ -692,17 +692,17 @@ DOCUMENT
 
 ---
 
-# CURRENTLY LEARNING
+# 📚 CURRENTLY LEARNING
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1800&pause=500&color=3776AB&center=true&vCenter=true&width=850&lines=ADVANCED+PYTHON;ADVANCED+DJANGO;DJANGO+REST+FRAMEWORK;FASTAPI;DATABASE+OPTIMIZATION;BACKEND+ARCHITECTURE;SYSTEM+DESIGN;DOCKER;CI%2FCD;AUTOMATED+TESTING;CLOUD+DEPLOYMENT;PRODUCTION+ENGINEERING" alt="Learning Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1800&pause=500&color=3776AB&center=true&vCenter=true&width=850&lines=ADVANCED+PYTHON;ADVANCED+DJANGO;DJANGO+REST+FRAMEWORK;FASTAPI;DATABASE+OPTIMIZATION;BACKEND+ARCHITECTURE;SYSTEM+DESIGN;DOCKER;CI%2FCD;AUTOMATED+TESTING;CLOUD+DEPLOYMENT;PRODUCTION+ENGINEERING" alt="Currently Learning" />
 
 </div>
 
 ---
 
-# CONTRIBUTION QUEST
+# 🐍 CONTRIBUTION QUEST
 
 <div align="center">
 
@@ -726,40 +726,58 @@ DOCUMENT
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake.svg" alt="GitHub Contribution Snake Animation">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
 </picture>
 
 </div>
 
 ---
 
-# CONTRIBUTION ACTIVITY
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"
+alt="Sultan Zaib Contribution Activity Graph"
+/>
 
 </div>
 
 ---
 
-# GITHUB STATISTICS
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=szofficiall&theme=transparent&hide_border=true" alt="GitHub Streak Statistics">
+<img
+src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+alt="Sultan Zaib GitHub Statistics"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=false&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Statistics">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=szofficiall&theme=transparent&hide_border=true"
+alt="Sultan Zaib GitHub Streak"
+/>
 
 </div>
 
 ---
 
-# DEVELOPER LOOP
+# 🔁 DEVELOPER LOOP
 
 <div align="center">
 
@@ -785,7 +803,7 @@ REPEAT
 
 ---
 
-# CAREER DIRECTION
+# 🎯 CAREER DIRECTION
 
 <div align="center">
 
@@ -815,7 +833,7 @@ Scalable Systems
 
 ---
 
-# OPEN TO OPPORTUNITIES
+# 💼 OPEN TO OPPORTUNITIES
 
 I am interested in:
 
@@ -838,7 +856,7 @@ I am especially interested in **Python/Django backend-focused roles**.
 
 ---
 
-# DEVELOPMENT PHILOSOPHY
+# 💡 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
@@ -862,7 +880,7 @@ Reliable
 
 ---
 
-# CONNECT
+# 🤝 CONNECT
 
 <div align="center">
 
@@ -882,9 +900,13 @@ Backend Engineer
 
 <br><br>
 
-[GitHub](https://github.com/szofficiall)
+<a href="https://github.com/szofficiall">
+  <img src="https://img.shields.io/badge/GitHub-szofficiall-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 
-[LinkedIn](https://www.linkedin.com/)
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -897,5 +919,9 @@ Backend Engineer
 <br><br>
 
 **Built with discipline, curiosity and code by Sultan Zaib.**
+
+<br><br>
+
+> **What you seek is seeking you.**
 
 </div>
