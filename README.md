@@ -1,26 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=SULTAN+ZAIB+%2F%2F+BACKEND+COMMAND+CENTER;PYTHON+ENGINEER+%E2%86%92+DJANGO+ENGINEER;DJANGO+%E2%86%92+REST+APIs+%E2%86%92+BACKEND+ENGINEERING;BUILD+%E2%80%A2+DEBUG+%E2%80%A2+UNDERSTAND+%E2%80%A2+SHIP" alt="Sultan Zaib Animated Introduction" />
+# `SULTAN ZAIB`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=650&color=58A6FF&center=true&vCenter=true&width=900&lines=PYTHON+ENGINEER;DJANGO+ENGINEER;BACKEND+ENGINEER;REST+API+ENGINEER;SOFTWARE+ENGINEER;BUILDING+BACKEND+SYSTEMS" alt="Sultan Zaib Animated Roles" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="85%" />
 
 <br>
 
 <pre>
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         S U L T A N   Z A I B                              ║
-║                    BACKEND COMMAND CENTER                                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   CORE        : Python / Django / Django REST Framework                     ║
-║   API         : REST APIs / Authentication / CRUD / Integrations            ║
-║   DATABASE    : MySQL / SQLite / Django ORM                                 ║
-║   ENGINEERING : Backend Systems / Clean Code / Problem Solving              ║
-║                                                                              ║
-║   MODE        : BUILD → DEBUG → UNDERSTAND → IMPROVE → SHIP                ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   S U L T A N   Z A I B                                                     │
+│   ───────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│   PYTHON  /  DJANGO  /  REST APIs  /  DATABASES  /  BACKEND                 │
+│                                                                              │
+│   BUILD  →  DEBUG  →  UNDERSTAND  →  IMPROVE  →  SHIP                     │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=110&section=header&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=850&lines=Turning+ideas+into+working+software.;Learning+by+building+real+projects.;Understanding+the+problem+before+fixing+the+code." alt="Animated Developer Statement" />
+
+<br>
+
+<a href="https://github.com/szofficiall">
+<img src="https://img.shields.io/badge/GITHUB-szofficiall-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sultan-zaib/">
+<img src="https://img.shields.io/badge/LINKEDIN-Sultan%20Zaib-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:sultan.zaib.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
 
 </div>
 
@@ -28,565 +45,556 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=3776AB&center=true&vCenter=true&width=850&lines=%3E+whoami;Python+Engineer;Django+Engineer;Backend+Engineer;REST+API+Engineer;Software+Engineer" alt="Who Am I" />
+## `01 / IDENTITY`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=WHO+IS+SULTAN+ZAIB%3F;PYTHON+%E2%86%92+DJANGO+%E2%86%92+BACKEND;CODE+WITH+PURPOSE" alt="Identity Animation" />
 
 </div>
-
-## 01 / IDENTITY
 
 ```text
 SULTAN ZAIB
+────────────────────────────────────────────────────────
 
-Python Engineer
-        ↓
-Django Engineer
-        ↓
-Backend Engineer
-        ↓
-REST API Engineer
-        ↓
-Software Engineer
+Role
+Python Engineer → Django Engineer → Backend Engineer
+
+Primary Focus
+Python • Django • REST APIs • Databases • Backend Systems
+
+Engineering Philosophy
+Understand the problem.
+Build the solution.
+Debug the failure.
+Improve the system.
+
+Current Direction
+Backend Engineering → API Development → System Design
 ```
 
-I build **database-driven web applications, backend systems and REST APIs** with Python and Django.
+I am a **Python/Django-focused Software Engineer** interested in building reliable, database-driven applications, REST APIs and backend systems.
 
-My focus is not simply making an application work.
-
-My focus is understanding **why it works, why it fails, and how to make it better.**
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                    ENGINEERING MINDSET                     │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  Learn → Build → Break → Debug → Understand → Improve     │
-│                                                            │
-│  Code is not finished when it works.                      │
-│  Code is finished when it is understood.                  │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=%5B+ENGINEERING+CORE+%5D;PYTHON+%2B+DJANGO+%2B+REST+APIs;DATABASES+%2B+ORM+%2B+AUTHENTICATION;BACKEND+SYSTEMS+%2B+PROBLEM+SOLVING" alt="Engineering Core" />
-
-</div>
-
-## 02 / ENGINEERING CORE
-
-```text
-                         SULTAN ZAIB
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          PYTHON            DJANGO           APIs
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                         DATABASES
-                              │
-                         DJANGO ORM
-                              │
-                    AUTHENTICATION
-                              │
-                       BACKEND SYSTEMS
-                              │
-                       SOFTWARE ENGINEERING
-```
-
-### Python
-
-```text
-Python
-├── Object-Oriented Programming
-├── Functions & Modules
-├── Exception Handling
-├── File Handling
-├── Virtual Environments
-├── Packages & Dependencies
-├── Socket Programming
-└── Problem Solving
-```
-
-### Django
-
-```text
-Django
-├── Models
-├── Views
-├── Templates
-├── Forms
-├── URLs
-├── Authentication
-├── Middleware
-├── Signals
-├── Admin Customization
-├── ORM
-├── CRUD
-└── Database-driven Applications
-```
-
-### REST APIs
-
-```text
-API
-├── Django REST Framework
-├── REST Architecture
-├── Serializers
-├── API Views
-├── Authentication
-├── CRUD APIs
-├── Request / Response
-├── JSON
-└── API Testing
-```
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=3776AB&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+STACK+%5D;THE+TOOLS+BEHIND+THE+CODE;PYTHON+%2F+DJANGO+%2F+DATABASES+%2F+DEVTOOLS" alt="System Stack" />
-
-</div>
-
-## 03 / SYSTEM STACK
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
-</p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=django,fastapi,laravel" />
-</p>
-
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
-
-### Data & APIs
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,postman" />
-</p>
-
-### Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm" />
-</p>
-
-### Deployment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
-</p>
-
----
-
-## 04 / BACKEND ARCHITECTURE
-
-```text
-                     CLIENT
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   HTTP REQUEST   │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      URLS       │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      VIEWS      │
-              └────────┬────────┘
-                       │
-             ┌─────────┴─────────┐
-             │                   │
-             ▼                   ▼
-       ┌───────────┐       ┌───────────┐
-       │   FORMS   │       │   APIs    │
-       └─────┬─────┘       └─────┬─────┘
-             │                   │
-             └─────────┬─────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   DJANGO ORM    │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    DATABASE     │
-              └─────────────────┘
-```
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=%5B+PROJECT+LAB+%5D;BUILDING+REAL+DJANGO+PROJECTS;LEARNING+BY+SHIPPING+WORKING+SYSTEMS" alt="Project Lab" />
-
-</div>
-
-## 05 / PROJECT LAB
-
-### 01 — Django Signals & Admin Blog Manager
-
-```text
-FOCUS
-├── Django Signals
-├── pre_save
-├── post_save
-├── Blog Models
-├── Admin Customization
-└── Database Automation
-```
-
-A practical Django project designed to make **Django Signals and Admin customization easier to understand**.
-
----
-
-### 02 — Django Authentication Starter
-
-```text
-FOCUS
-├── User Registration
-├── Login
-├── Logout
-├── Authentication
-├── Protected Pages
-└── User Management
-```
-
-A production-oriented authentication starter demonstrating the fundamentals of building secure Django user flows.
-
----
-
-### 03 — Django Middleware Made Simple
-
-```text
-FOCUS
-├── Middleware
-├── Request Processing
-├── Response Processing
-├── Custom Middleware
-├── Clickjacking Protection
-└── Django Security Concepts
-```
-
-Built to explain Django Middleware through practical examples instead of only theory.
-
----
-
-### 04 — Django Blog Post Manager
-
-```text
-FOCUS
-├── CRUD
-├── Create Posts
-├── Update Posts
-├── Delete Posts
-├── Search
-├── Filtering
-├── Pagination
-└── Django ORM
-```
-
-A database-driven blog management system built to practice real Django CRUD workflows.
-
----
-
-### 05 — Student Management System
-
-```text
-FOCUS
-├── Students
-├── Records
-├── CRUD
-├── Database Management
-├── Django ORM
-└── Admin
-```
-
-A Django-based management system for handling student records and database operations.
-
----
-
-### 06 — Django Todo Task Manager
-
-```text
-FOCUS
-├── Create Tasks
-├── Update Tasks
-├── Delete Tasks
-├── Toggle Completion
-├── Search
-└── Task Management
-```
-
-A practical task management application built around Django CRUD and database operations.
-
----
-
-### 07 — Recipe CRUD Application
-
-```text
-FOCUS
-├── Recipe Management
-├── CRUD
-├── Search
-├── Authentication
-├── SQLite
-└── Django ORM
-```
-
-A Django application focused on practical CRUD operations and database-backed recipe management.
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=700&color=3776AB&center=true&vCenter=true&width=850&lines=%5B+DEVELOPER+LOOP+%5D;WRITE+CODE;RUN+CODE;BREAK+CODE;DEBUG+CODE;UNDERSTAND+CODE;IMPROVE+CODE;SHIP+CODE" alt="Developer Loop" />
-
-</div>
-
-## 06 / DEVELOPER LOOP
-
-```text
-              ┌──────────────┐
-              │    IDEA      │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    BUILD     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │     RUN      │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    BREAK     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    DEBUG     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │  UNDERSTAND  │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   IMPROVE    │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │     SHIP     │
-              └──────┬───────┘
-                     │
-                     └──────────→ REPEAT
-```
+My approach is simple:
 
 > **I don't just want to fix an error. I want to understand why it happened.**
 
 ---
 
-## 07 / WHAT I BUILD
+<div align="center">
+
+## `02 / ENGINEERING MINDSET`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=700&color=3776AB&center=true&vCenter=true&width=750&lines=LEARN;BUILD;BREAK;DEBUG;UNDERSTAND;IMPROVE;SHIP" alt="Engineering Mindset Animation" />
+
+</div>
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  WEB APPLICATIONS                                          │
-│  └── Django / Templates / Forms / CRUD                    │
-│                                                             │
-│  REST APIs                                                 │
-│  └── DRF / Authentication / JSON / Integrations            │
-│                                                             │
-│  DATABASE SYSTEMS                                          │
-│  └── MySQL / SQLite / Django ORM                           │
-│                                                             │
-│  BACKEND LOGIC                                             │
-│  └── Business Logic / Validation / Security                │
-│                                                             │
-│  AUTOMATION                                                │
-│  └── Signals / Middleware / Admin / Scripts                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                         ┌──────────────┐
+                         │    LEARN     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    BUILD     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    BREAK     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    DEBUG     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │  UNDERSTAND  │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │   IMPROVE    │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │     SHIP     │
+                         └──────┬───────┘
+                                │
+                                └──────────────→ REPEAT
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=%5B+CONTRIBUTION+MISSION+%5D;EVERY+COMMIT+TELLS+A+STORY;KEEP+BUILDING;KEEP+LEARNING;KEEP+SHIPPING" alt="Contribution Mission" />
+## `03 / CORE STACK`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=750&color=58A6FF&center=true&vCenter=true&width=800&lines=THE+TOOLS+I+BUILD+WITH;PYTHON+%2B+DJANGO+%2B+REST;DATABASES+%2B+ORM+%2B+APIs;FROM+REQUEST+TO+DATABASE" alt="Core Stack Animation" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite,postgres,git,github,postman&perline=9" alt="Core Backend Technologies" />
 
 </div>
+
+### Backend
+
+```text
+Python
+Django
+Django REST Framework
+FastAPI
+Django ORM
+REST APIs
+Authentication
+CRUD
+Middleware
+Signals
+Admin Customization
+```
+
+### Databases
+
+```text
+MySQL
+SQLite
+PostgreSQL
+Database Design
+Relationships
+Queries
+Django ORM
+```
+
+### Frontend
+
+```text
+HTML
+CSS
+JavaScript
+React
+Bootstrap
+Tailwind CSS
+```
+
+### Development
+
+```text
+Git
+GitHub
+GitLab
+Postman
+VS Code
+npm
+pip
+Virtual Environments
+```
+
+### Deployment
+
+```text
+AWS
+Vercel
+Netlify
+Gunicorn
+Whitenoise
+```
 
 ---
 
-## 08 / CONTRIBUTION MATRIX
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=react-dark&hide_border=true&area=true&custom_title=SULTAN%20ZAIB%20%2F%2F%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Sultan Zaib Contribution Activity Graph" />
+## `04 / BACKEND ARCHITECTURE`
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=3776AB&center=true&vCenter=true&width=800&lines=%5B+GITHUB+TELEMETRY+%5D;COMMITS;CONTRIBUTIONS;STREAK;CONSISTENCY" alt="GitHub Telemetry" />
-
-</div>
-
-## 09 / GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Sultan Zaib GitHub Statistics" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=szofficiall&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Sultan Zaib GitHub Streak" />
-
-</div>
-
----
-
-## 10 / CURRENTLY BUILDING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Deepening+Python+Knowledge;Building+Advanced+Django+Applications;Designing+REST+APIs;Improving+Database+Design;Learning+Backend+Architecture;Exploring+Scalable+Systems;Becoming+a+Better+Software+Engineer" alt="Currently Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=3776AB&center=true&vCenter=true&width=820&lines=REQUEST+COMES+IN;BUSINESS+LOGIC+DOES+THE+WORK;DATABASE+STORES+THE+STATE;RESPONSE+GOES+BACK" alt="Backend Architecture Animation" />
 
 </div>
 
 ```text
-CURRENT DIRECTION
+                           CLIENT
+                              │
+                              │ HTTP
+                              ▼
+                     ┌─────────────────┐
+                     │      URLS       │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │      VIEW       │
+                     └────────┬────────┘
+                              │
+                    ┌─────────┴─────────┐
+                    │                   │
+                    ▼                   ▼
+             ┌─────────────┐      ┌─────────────┐
+             │    FORMS    │      │     API     │
+             └──────┬──────┘      └──────┬──────┘
+                    │                    │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │  BUSINESS LOGIC │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │   DJANGO ORM    │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │    DATABASE     │
+                     └─────────────────┘
+```
+
+---
+
+<div align="center">
+
+## `05 / PROJECT LAB`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=750&color=58A6FF&center=true&vCenter=true&width=850&lines=REAL+PROJECTS;REAL+PROBLEMS;REAL+DJANGO;LEARNING+BY+BUILDING" alt="Project Lab Animation" />
+
+</div>
+
+### `01` — Django Signals & Admin Blog Manager
+
+```text
+Django Signals
+pre_save / post_save
+Blog Models
+Admin Customization
+Database Automation
+```
+
+A practical Django project created to make **Signals and Admin customization** easier to understand through real implementation.
+
+---
+
+### `02` — Django Authentication Starter
+
+```text
+Registration
+Login / Logout
+Authentication
+Protected Views
+User Management
+```
+
+A reusable Django authentication project covering the fundamentals of user registration, login and protected application flows.
+
+---
+
+### `03` — Django Middleware Made Simple
+
+```text
+Custom Middleware
+Request Processing
+Response Processing
+Security Concepts
+Clickjacking Protection
+```
+
+A practical project designed to understand **how Django Middleware works internally** and how it can be used in real applications.
+
+---
+
+### `04` — Django Blog Post Manager
+
+```text
+CRUD
+Search
+Filtering
+Pagination
+Django ORM
+Database Operations
+```
+
+A database-driven blog management system built around practical Django CRUD operations and query handling.
+
+---
+
+### `05` — Student Management System
+
+```text
+Student Records
+CRUD
+Database Management
+Django ORM
+Admin
+```
+
+A Django application for managing student records and practicing real database-backed application workflows.
+
+---
+
+### `06` — Django Todo Task Manager
+
+```text
+Create Tasks
+Update Tasks
+Delete Tasks
+Complete / Incomplete
+Search
+Task Management
+```
+
+A practical task management application focused on Django CRUD operations and clean database interaction.
+
+---
+
+### `07` — Recipe CRUD Application
+
+```text
+Recipe Management
+CRUD
+Search
+Authentication
+SQLite
+Django ORM
+```
+
+A Django-based recipe application created to strengthen CRUD, authentication and database-management fundamentals.
+
+---
+
+<div align="center">
+
+## `06 / DEVELOPMENT LOOP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=650&color=3776AB&center=true&vCenter=true&width=850&lines=WRITE+THE+CODE;RUN+THE+CODE;READ+THE+ERROR;FIND+THE+CAUSE;FIX+THE+CAUSE;LEARN+FROM+THE+BUG" alt="Development Loop Animation" />
+
+</div>
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  IDEA                                                        │
+│   ↓                                                           │
+│  DESIGN                                                       │
+│   ↓                                                           │
+│  CODE                                                         │
+│   ↓                                                           │
+│  TEST                                                         │
+│   ↓                                                           │
+│  ERROR                                                        │
+│   ↓                                                           │
+│  DEBUG                                                        │
+│   ↓                                                           │
+│  UNDERSTAND                                                   │
+│   ↓                                                           │
+│  REFACTOR                                                     │
+│   ↓                                                           │
+│  SHIP                                                         │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## `07 / WHAT I BUILD`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=WEB+APPLICATIONS;REST+APIs;DATABASE+SYSTEMS;AUTHENTICATION;BACKEND+LOGIC;AUTOMATION" alt="What I Build Animation" />
+
+</div>
+
+| System           | Focus                                 |
+| ---------------- | ------------------------------------- |
+| Web Applications | Django, Templates, Forms, CRUD        |
+| REST APIs        | DRF, JSON, Authentication, API Design |
+| Databases        | MySQL, SQLite, PostgreSQL, ORM        |
+| Authentication   | Registration, Login, Permissions      |
+| Backend Logic    | Validation, Business Logic, Security  |
+| Automation       | Signals, Middleware, Admin            |
+| Development      | Git, GitHub, Postman, Testing         |
+
+---
+
+<div align="center">
+
+## `08 / CONTRIBUTION MISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=3776AB&center=true&vCenter=true&width=850&lines=EVERY+COMMIT+IS+PROGRESS;KEEP+BUILDING;KEEP+LEARNING;KEEP+SHIPPING" alt="Contribution Mission Animation" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake-dark.svg" alt="Sultan Zaib GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `09 / ACTIVITY MATRIX`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=CODE+ACTIVITY;CONSISTENCY;CONTRIBUTIONS;KEEP+MOVING" alt="Activity Matrix Animation" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=react-dark&hide_border=true&area=true&custom_title=SULTAN%20ZAIB%20%2F%2F%20ACTIVITY%20MATRIX" width="100%" alt="Sultan Zaib GitHub Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `10 / GITHUB TELEMETRY`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=3776AB&center=true&vCenter=true&width=780&lines=COMMITS;CONTRIBUTIONS;STREAK;OPEN+SOURCE;CONSISTENCY" alt="GitHub Telemetry Animation" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="175" alt="Sultan Zaib GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szofficiall&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="175" alt="Sultan Zaib GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 / CURRENTLY LEARNING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=750&color=58A6FF&center=true&vCenter=true&width=850&lines=ADVANCED+PYTHON;ADVANCED+DJANGO;REST+API+DESIGN;DATABASE+DESIGN;BACKEND+ARCHITECTURE;SYSTEM+DESIGN;SCALABLE+APPLICATIONS" alt="Currently Learning Animation" />
+
+</div>
+
+```text
+CURRENT ROADMAP
 
 Python
-   ↓
+   │
+   ▼
 Django
-   ↓
+   │
+   ▼
 Django REST Framework
-   ↓
-REST APIs
-   ↓
+   │
+   ▼
+REST API Engineering
+   │
+   ▼
 Database Design
-   ↓
+   │
+   ▼
 Backend Architecture
-   ↓
-Scalable Systems
-   ↓
-Software Engineering
-```
-
----
-
-## 11 / ENGINEERING PRINCIPLES
-
-```text
-01. Understand before optimizing.
-
-02. Read the error before searching for the solution.
-
-03. Write code that another developer can understand.
-
-04. Keep learning from every bug.
-
-05. Build projects instead of only watching tutorials.
-
-06. Prefer fundamentals over shortcuts.
-
-07. Improve the system, not just the symptom.
-
-08. Ship what you build.
+   │
+   ▼
+System Design
+   │
+   ▼
+Scalable Software Systems
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=%5B+CAREER+PIPELINE+%5D;PYTHON+ENGINEER;DJANGO+ENGINEER;BACKEND+ENGINEER;REST+API+ENGINEER;SOFTWARE+ENGINEER;BACKEND+ARCHITECTURE;SCALABLE+SYSTEMS" alt="Career Pipeline" />
+## `12 / ENGINEERING PRINCIPLES`
 
 </div>
 
-## 12 / CAREER DIRECTION
-
 ```text
-                    PYTHON ENGINEER
-                           │
-                           ▼
-                    DJANGO ENGINEER
-                           │
-                           ▼
-                    BACKEND ENGINEER
-                           │
-                           ▼
-                  REST API ENGINEER
-                           │
-                           ▼
-                  SOFTWARE ENGINEER
-                           │
-                           ▼
-                BACKEND ARCHITECTURE
-                           │
-                           ▼
-                  SCALABLE SYSTEMS
+01  Understand before optimizing.
+
+02  Read the error before searching for the solution.
+
+03  Build projects instead of only watching tutorials.
+
+04  Learn from every bug.
+
+05  Keep code readable.
+
+06  Prefer fundamentals over shortcuts.
+
+07  Improve the system, not only the symptom.
+
+08  Ship what you build.
+
+09  Keep learning.
+
+10  Keep building.
 ```
 
-### Open to
+---
+
+<div align="center">
+
+## `13 / CAREER PIPELINE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=PYTHON+ENGINEER;DJANGO+ENGINEER;BACKEND+ENGINEER;REST+API+ENGINEER;SOFTWARE+ENGINEER;BACKEND+ARCHITECTURE;SCALABLE+SYSTEMS" alt="Career Pipeline Animation" />
+
+</div>
+
+```text
+                 PYTHON ENGINEER
+                        │
+                        ▼
+                 DJANGO ENGINEER
+                        │
+                        ▼
+                 BACKEND ENGINEER
+                        │
+                        ▼
+                REST API ENGINEER
+                        │
+                        ▼
+                SOFTWARE ENGINEER
+                        │
+                        ▼
+              BACKEND ARCHITECTURE
+                        │
+                        ▼
+                 SYSTEM DESIGN
+                        │
+                        ▼
+                SCALABLE SYSTEMS
+```
+
+### Open To
 
 ```text
 Backend Development
-Django Development
 Python Development
+Django Development
 REST API Development
 Junior Backend Engineering
 Software Engineering
 Internship Opportunities
 Freelance Projects
-Collaborative Engineering Work
+Collaborative Engineering
 ```
 
 ---
 
-## 13 / CONNECT
-
 <div align="center">
 
+## `14 / CONNECT`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=3776AB&center=true&vCenter=true&width=700&lines=LET'S+BUILD+SOMETHING+USEFUL.;OPEN+TO+GOOD+ENGINEERING+CONVERSATIONS." alt="Connect Animation" />
+
+<br><br>
+
 <a href="https://github.com/szofficiall">
-<img src="https://img.shields.io/badge/GitHub-szofficiall-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-szofficiall-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/sultan-zaib/">
-<img src="https://img.shields.io/badge/LinkedIn-Sultan%20Zaib-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Sultan%20Zaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:sultan.zaib.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-3776AB?style=for-the-badge&logo=gmail" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact-3776AB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -595,20 +603,24 @@ Collaborative Engineering Work
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="85%" />
+
+<br><br>
+
 <pre>
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│                         SULTAN ZAIB                                │
-│                                                                     │
-│              "Build it. Understand it. Debug it.                   │
-│                         Improve it."                               │
-│                                                                     │
-│        Built with discipline, curiosity and code by Sultan Zaib.   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                         S U L T A N   Z A I B                      ║
+║                                                                      ║
+║              BUILD IT. UNDERSTAND IT. DEBUG IT.                    ║
+║                         IMPROVE IT.                                 ║
+║                                                                      ║
+║        Built with discipline, curiosity and code by Sultan Zaib.    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=What+you+seek+is+seeking+you.;Keep+learning.+Keep+building.+Keep+moving.;One+bug+at+a+time.+One+system+at+a+time." alt="Closing Message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=What+you+seek+is+seeking+you.;Keep+learning.+Keep+building.+Keep+improving.;One+bug.+One+lesson.+One+better+system." alt="Final Animated Quote" />
 
 <br><br>
 
