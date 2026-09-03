@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-SULTAN%20ZAIB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:sultan.zaib.dev@gmail.com">
+<a href="mailto:dev.sultanzaib@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -246,7 +246,7 @@ I build database-driven web applications using Django's MVT architecture and eco
 
 ---
 
-# 🧩 Django ORM
+#  Django ORM
 
 I work extensively with Django ORM for database interaction and application development.
 
@@ -961,7 +961,7 @@ My goal is to bring a **backend-first engineering mindset** while understanding 
 <img src="https://img.shields.io/badge/LinkedIn-Sultan%20Zaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:sultan.zaib.dev@gmail.com">
+<a href="mailto:dev.sultanzaib@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
