@@ -861,11 +861,15 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 📈 GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&theme=github-dark&hide_border=true&area=true&custom_title=SULTAN%20ZAIB%20%2F%2F%20ENGINEERING%20ACTIVITY" width="100%" alt="GitHub Activity Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=szofficiall&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true&custom_title=SULTAN%20ZAIB%20%2F%2F%20GITHUB%20ACTIVITY"
+  width="100%"
+  alt="Sultan Zaib GitHub Activity Graph"
+/>
 
 </div>
 
@@ -875,13 +879,25 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA" height="180" alt="GitHub Statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=szofficiall&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&custom_title=Sultan%20Zaib%20%2F%2F%20GitHub%20Stats"
+  width="49%"
+  alt="Sultan Zaib GitHub Statistics"
+/>
 
-<img src="https://streak-stats.demolab.com?user=szofficiall&theme=github-dark-blue&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA" height="180" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=szofficiall&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA"
+  width="49%"
+  alt="Sultan Zaib GitHub Streak"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szofficiall&layout=compact&hide_border=true&theme=github_dark&title_color=60A5FA&text_color=CBD5E1&langs_count=8" alt="Top Languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=szofficiall&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"
+  width="42%"
+  alt="Sultan Zaib Top Languages"
+/>
 
 </div>
 
