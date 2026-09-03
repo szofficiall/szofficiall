@@ -56,7 +56,7 @@ I also have practical knowledge of **JavaScript, React.js, Tailwind CSS, Bootstr
 
 I enjoy solving real-world engineering problems, designing clean backend systems, working with databases, developing APIs, debugging complex issues, and continuously improving software quality.
 
-> 🚀 **Currently open to Software Engineering, Python Engineering, Django Engineering, and Backend Engineering opportunities.**
+> **Currently open to Software Engineering, Python Engineering, Django Engineering, and Backend Engineering opportunities.**
 
 ---
 
@@ -68,21 +68,21 @@ I enjoy solving real-world engineering problems, designing clean backend systems
 
 ---
 
-## 👤 About Me
+##  About Me
 
-* 💻 **Software Engineer**
-* 🐍 **Python Engineer**
-* 🌐 **Django Engineer**
-* ⚡ Backend & REST API Engineering
-* 🔌 Django REST Framework & FastAPI
-* 🗄️ MySQL & SQLite
-* 🔐 Authentication & Authorization
-* 🧩 Django ORM & Database Design
-* 🎨 Frontend Knowledge: React, Tailwind CSS & Bootstrap
-* 🧪 API Engineering & Testing with Postman
-* 🔀 Git, GitHub & GitLab
-* ☁️ Deployment & Hosting Fundamentals
-* 📚 Continuously improving modern software engineering practices
+*  **Software Engineer**
+*  **Python Engineer**
+*  **Django Engineer**
+*  Backend & REST API Engineering
+*  Django REST Framework & FastAPI
+*  MySQL & SQLite
+*  Authentication & Authorization
+*  Django ORM & Database Design
+*  Frontend Knowledge: React, Tailwind CSS & Bootstrap
+*  API Engineering & Testing with Postman
+*  Git, GitHub & GitLab
+*  Deployment & Hosting Fundamentals
+*  Continuously improving modern software engineering practices
 
 > **Primary Focus:** Python Engineering & Django Engineering
 > **Core Direction:** Backend Engineering, REST APIs & Database Systems
@@ -141,9 +141,9 @@ My primary career direction is **Software Engineering with a strong focus on Pyt
 
 ---
 
-# 🧰 Technical Skills
+#  Technical Skills
 
-## 🐍 Programming Languages
+##  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,php,js,c,cpp" />
@@ -167,7 +167,7 @@ My primary career direction is **Software Engineering with a strong focus on Pyt
 
 ---
 
-# 🐍 Python Engineering
+#  Python Engineering
 
 <p>
 <img src="https://img.shields.io/badge/PYTHON_ENGINEERING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -205,7 +205,7 @@ I use Python primarily for backend engineering, API development, database-driven
 
 ---
 
-# 🌐 Django Engineering
+#  Django Engineering
 
 <p>
 <img src="https://img.shields.io/badge/DJANGO_ENGINEERING-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -289,7 +289,7 @@ Student.objects.all().order_by("-id")
 
 ---
 
-# ⚡ Django REST Framework
+#  Django REST Framework
 
 <p>
 <img src="https://img.shields.io/badge/DJANGO_REST_FRAMEWORK-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -318,7 +318,7 @@ I use **Django REST Framework** for building RESTful APIs and backend services.
 
 ---
 
-# 🚀 FastAPI Engineering
+#  FastAPI Engineering
 
 <p>
 <img src="https://img.shields.io/badge/FASTAPI_ENGINEERING-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -341,7 +341,7 @@ I also work with **FastAPI** for modern, lightweight, and high-performance API e
 
 ---
 
-# 🗄️ Database Engineering
+#  Database Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
@@ -365,7 +365,7 @@ I also work with **FastAPI** for modern, lightweight, and high-performance API e
 
 ---
 
-# 🔐 Authentication & Security
+#  Authentication & Security
 
 I understand the importance of building secure backend systems.
 
@@ -387,7 +387,7 @@ I understand the importance of building secure backend systems.
 
 ---
 
-# 🎨 Frontend Knowledge
+#  Frontend Knowledge
 
 Although my **primary specialization is Python/Django and backend engineering**, I also have practical frontend knowledge that helps me understand frontend applications and integrate APIs effectively.
 
@@ -413,7 +413,7 @@ Although my **primary specialization is Python/Django and backend engineering**,
 
 ---
 
-# 🔌 REST API Engineering
+#  REST API Engineering
 
 I enjoy building APIs that connect backend systems with frontend applications, mobile applications, and external services.
 
@@ -447,7 +447,7 @@ I enjoy building APIs that connect backend systems with frontend applications, m
 
 ---
 
-# 🧪 API Testing
+#  API Testing
 
 <p>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -469,7 +469,7 @@ I use Postman for developing, testing, and debugging REST APIs.
 
 ---
 
-# 🐘 PHP & Laravel
+#  PHP & Laravel
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel" />
@@ -493,7 +493,7 @@ I also have experience with **PHP and Laravel** for web application engineering.
 
 ---
 
-# 📊 Data & Analytics
+#  Data & Analytics
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
@@ -510,7 +510,7 @@ I also have experience with **PHP and Laravel** for web application engineering.
 
 ---
 
-# 🔀 Git & Version Control
+#  Git & Version Control
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
@@ -532,7 +532,7 @@ I also have experience with **PHP and Laravel** for web application engineering.
 
 ---
 
-# ☁️ Deployment & Cloud
+#  Deployment & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,linux" />
@@ -563,7 +563,7 @@ I also have experience with **PHP and Laravel** for web application engineering.
 
 ---
 
-# 🔄 Development Workflow
+#  Development Workflow
 
 My general engineering workflow looks like this:
 
@@ -606,9 +606,9 @@ Deploy
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-## 📝 Django Blog Post Manager
+##  Django Blog Post Manager
 
 A Django-based blog management application built around CRUD operations and database-driven backend functionality.
 
@@ -629,7 +629,7 @@ A Django-based blog management application built around CRUD operations and data
 
 ---
 
-## ✅ Django Todo Task Manager
+##  Django Todo Task Manager
 
 A Django-based task management system designed to practice real-world backend engineering and CRUD workflows.
 
@@ -651,7 +651,7 @@ A Django-based task management system designed to practice real-world backend en
 
 ---
 
-## 🎓 Student Management System
+##  Student Management System
 
 A Django-based academic management system for managing students, subjects, marks, results, and academic records.
 
@@ -674,7 +674,7 @@ A Django-based academic management system for managing students, subjects, marks
 
 ---
 
-## 🍳 Recipe Management Application
+##  Recipe Management Application
 
 A Django-based recipe management application focused on CRUD operations, authentication, image uploads, and database integration.
 
@@ -705,7 +705,7 @@ A Django-based recipe management application focused on CRUD operations, authent
 
 ---
 
-# 🧠 Engineering Principles
+#  Engineering Principles
 
 I believe good software should not only work — it should also be easy to understand, maintain, secure, and improve.
 
@@ -744,7 +744,7 @@ I believe good software should not only work — it should also be easy to under
 
 ---
 
-# 🧩 Problem-Solving Approach
+#  Problem-Solving Approach
 
 ```text
 Understand
@@ -768,7 +768,7 @@ I enjoy debugging and problem solving because understanding **why something fail
 
 ---
 
-# 📚 Currently Learning & Improving
+#  Currently Learning & Improving
 
 <div align="center">
 
@@ -796,7 +796,7 @@ I enjoy debugging and problem solving because understanding **why something fail
 
 ---
 
-# 🎯 Career Direction
+#  Career Direction
 
 My goal is to grow as a professional **Software Engineer and Backend Engineer**, working on real-world applications and scalable systems.
 
@@ -826,7 +826,7 @@ My goal is to grow as a professional **Software Engineer and Backend Engineer**,
 
 ---
 
-# 💼 Open to Opportunities
+#  Open to Opportunities
 
 I am currently open to opportunities in:
 
@@ -849,7 +849,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 <div align="center">
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <img src="https://raw.githubusercontent.com/szofficiall/szofficiall/output/github-snake-dark.svg" alt="Sultan Zaib Contribution Snake" width="100%" />
 
@@ -871,7 +871,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -887,7 +887,7 @@ I am especially interested in **Python/Django backend-focused roles**, while als
 
 ---
 
-# 🧱 What I Bring
+#  What I Bring
 
 ```text
                          SOFTWARE ENGINEERING
@@ -925,7 +925,7 @@ My goal is to bring a **backend-first engineering mindset** while understanding 
 
 ---
 
-# 🚦 Engineering Loop
+#  Engineering Loop
 
 <div align="center">
 
@@ -947,7 +947,7 @@ My goal is to bring a **backend-first engineering mindset** while understanding 
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="left">
 
