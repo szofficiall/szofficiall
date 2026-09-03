@@ -16,7 +16,7 @@ jobs:
 generate:
 runs-on: ubuntu-latest
 
-```
+
 steps:
   - name: Generate Contribution Snake
     uses: Platane/snk/svg-only@v3
@@ -33,4 +33,4 @@ steps:
       target_branch: output
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
